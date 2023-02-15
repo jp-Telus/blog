@@ -12,4 +12,5 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
     // Test pull request on Github
+    // Commit 2 -- Test code review
 }
